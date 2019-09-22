@@ -1,6 +1,6 @@
 The original GitHub link is here: https://github.com/matterport/Mask_RCNN
 
-# Steps to Use Code #
+# Steps to Use This Code #
 
 1. Download and unzip the files
 2. Open up a terminal (Mac) or Command Prompt (windows) in the folder where you have saved all the files
