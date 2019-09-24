@@ -8,7 +8,7 @@ The original GitHub link is here: https://github.com/matterport/Mask_RCNN
 4. Run this command: python setup.py install
 5. Still in terminal/command prompt, go into the cocoapi-master folder and then into the PythonAPI folder
 6. Run this command: pip install cython
-  6a. If you get an error with the above command, try uninstalling and then reinstalling cython.
+6a. If you get an error with the above command, try uninstalling and then reinstalling cython.
 7. Run this command: pip install tensorflow_gpu or conda install tensorflow_gpu
 8. Run this command: python setup.py build_ext install
 9. Go to this link: https://github.com/matterport/Mask_RCNN/releases
